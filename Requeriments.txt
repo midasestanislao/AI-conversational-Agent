@@ -1,0 +1,6 @@
+Flask
+twilio
+pydantic-ai
+pyngrok
+google-generativeai
+python-dotenv
